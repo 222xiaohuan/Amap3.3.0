@@ -3,15 +3,10 @@ package com.amap.map3d.demo.basic;
 
 import android.app.Activity;
 import android.os.Bundle;
-import android.widget.CheckBox;
-import android.widget.CompoundButton;
-import android.widget.CompoundButton.OnCheckedChangeListener;
 
 import com.amap.api.maps.AMap;
 import com.amap.api.maps.MapView;
-import com.amap.api.maps.MapsInitializer;
 import com.amap.map3d.demo.R;
-import com.amap.map3d.demo.util.OffLineMapUtils;
 
 
 /**
@@ -25,7 +20,7 @@ public class BasicMapActivity extends Activity {
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.basicmap_activity);
-
+		//mapView is important
 		mapView = (MapView) findViewById(R.id.map);
 		mapView.onCreate(savedInstanceState);// 此方法必须重写
 	 
