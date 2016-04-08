@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/nick.gao/tempProject/android map/AMap3DDemo/app/libs/AMap_3DMap_V3.3.0_20160331.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="93ac7ebc64e633a9176536c2731271ac38895c85">
+        <dex dex="/Users/nick.gao/tempProject/android map/AMap3DDemo/app/build/intermediates/pre-dexed/debug/AMap_3DMap_V3.3.0_20160331-d8544012670ff4383b09383d019af36d771c5bee.jar" />
+    </item>
+    <item
+        jar="/Users/nick.gao/tempProject/android map/AMap3DDemo/app/libs/AMap_Search_V3.2.1_20160308.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="f2ca076e4192ab39f1fae2e265b15e6005a5615d">
+        <dex dex="/Users/nick.gao/tempProject/android map/AMap3DDemo/app/build/intermediates/pre-dexed/debug/AMap_Search_V3.2.1_20160308-039e0286498d347b6c49a379755f4cc4f7e0291f.jar" />
+    </item>
+    <item
+        jar="/Users/nick.gao/tempProject/android map/AMap3DDemo/app/libs/android-support-v4.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="307c1cc532eabbf1d135b43e5c983c9da700449d">
+        <dex dex="/Users/nick.gao/tempProject/android map/AMap3DDemo/app/build/intermediates/pre-dexed/debug/android-support-v4-438465417e01b5b65bb10657e87392fb0371a13e.jar" />
+    </item>
+    <item
+        jar="/Users/nick.gao/tempProject/android map/AMap3DDemo/app/libs/AMap_Location_V2.4.0_20160308.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="dd8aedb3d0d87b92777ab997ec883427d88f379a">
+        <dex dex="/Users/nick.gao/tempProject/android map/AMap3DDemo/app/build/intermediates/pre-dexed/debug/AMap_Location_V2.4.0_20160308-8b17158d5fbfab273c5ec5287ae6f4323c0e3996.jar" />
+    </item>
+    <item
+        jar="/Users/nick.gao/tempProject/android map/AMap3DDemo/app/libs/Volley.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="77faa9ffd189160d1e22c58fdf5eed0a9a08b816">
+        <dex dex="/Users/nick.gao/tempProject/android map/AMap3DDemo/app/build/intermediates/pre-dexed/debug/Volley-dde9101f8a53d4c49693e6571fd094ede8b0e29b.jar" />
+    </item>
+
+</items>
